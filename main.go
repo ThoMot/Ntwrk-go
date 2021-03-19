@@ -1,11 +1,11 @@
 package main
 
 import (
-	"Network-go/network/bcast"
-	"Network-go/network/localip"
-	"Network-go/network/peers"
 	"flag"
 	"fmt"
+	"github.com/ThoMot/Ntwrk-go/network/bcast"
+	"github.com/ThoMot/Ntwrk-go/network/localip"
+	"github.com/ThoMot/Ntwrk-go/network/peers"
 	"os"
 	"time"
 )

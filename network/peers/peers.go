@@ -1,8 +1,8 @@
 package peers
 
 import (
-	"Network-go/network/conn"
 	"fmt"
+	"github.com/ThoMot/Ntwrk-go/network/conn"
 	"net"
 	"sort"
 	"time"
